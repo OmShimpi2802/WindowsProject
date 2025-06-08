@@ -1,0 +1,8 @@
+{
+  "allow_copy": false,
+  "allow_paste": false,
+  "allow_cut": false,
+  "allow_printscreen": false, 
+  "allow_filesave": false,
+  "log_events": true
+}
