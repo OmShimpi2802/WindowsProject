@@ -1,4 +1,0 @@
-notepad.exe
-explorer.exe
-screenrec.exe
-taskmgr.exe
