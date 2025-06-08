@@ -1,2 +1,0 @@
-void InitHook();
-void Unhook();
